@@ -1,7 +1,7 @@
-먼저 시간을 내어 참여해 주셔서 감사합니다!
+First off, thanks for taking the time to contribute!
 
-모든 유형의 기부가 장려되고 가치가 있습니다. 이 프로젝트가 이를 처리하는 방법에 대한 자세한 내용과 도움이 되는 다양한 방법은 목차를 참조하십시오. 기여하기 전에 관련 섹션을 읽으십시오. 그것은 우리 유지 보수를 훨씬 더 쉽게 만들고 관련된 모든 사람들의 경험을 원활하게 할 것입니다. 커뮤니티는 귀하의 기여를 기대합니다.
+All types of contributions are encouraging and valued. See the Table of Contents for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. The community looks forward to your contributions.
 
-프로젝트가 마음에 들지만 기여할 시간이 없다면 괜찮습니다. 프로젝트를 지원하고 감사를 표할 수 있는 다른 쉬운 방법이 있습니다. 이에 대해서도 매우 기쁘게 생각합니다.
+And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
 
-프로젝트에 별표 표시하십시오 그것에 대해 트윗하십시오 프로젝트의 readme에서 이 프로젝트를 참조하십시오 지역 모임에서 프로젝트를 언급하고 친구/동료에게 알리십시오
+Star the project Tweet about it Refer this project in your project’s readme Mention the project at local meetups and tell your friends/colleagues
