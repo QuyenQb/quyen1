@@ -1,4 +1,12 @@
-#simple_calculator
+#pyqt_calculator
+The simple calculator based on PyQt5
+This calculator is based on studyinggrabbit's work(https://studyingrabbit.tistory.com/23)
+This repository exists for opensource software lecture in Pukyung National University at Fall 2022.
 
-계산자
-Windows 계산기 앱은 Windows와 함께 사전 설치된 Python으로 작성된 최신 Windows 앱입니다. 앱은 표준을 제공합니다.
+#Requirements
+PyQt5 module
+
+#Installation requirements
+
+python -m pip intrall pyqt5
+
