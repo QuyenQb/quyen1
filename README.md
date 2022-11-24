@@ -12,3 +12,4 @@ PyQt5 module
 
 python -m pip intrall pyqt5
 
+maytinh.py the interface is modified and saved in this file.
