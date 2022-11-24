@@ -1,30 +1,26 @@
 #pyqt_calculator
+이것은 파이썬 언어로 만들어진 소프트웨어입니다.
 
-This is software created in python language.
+인터페이스는 pyqt5.Qt 디자이너에서 생성됩니다.
 
-The interface is generated from pyqt5.Qt designer.
+인터페이스와 기능은 Windows caulator에서 복사됩니다.
 
-The interface and features are copied from the windows caulator.
+일부 기능이 완료되지 않았으며 일부 계산 오류가 있습니다. 학습에 사용되는 코드입니다.
 
-Some functions have not been completed, there are some calculation errors. Code used for learning.
+이 프로그램은 2개의 주요 파일로 구성됩니다.
 
-The program consists of 2 main files:
+-Main.py는 컴퓨터 기능을 수행하는 데 사용됩니다.
 
--Main.py is used to perform computer functions.
+-maytinh.py는 내가 만든 caculator의 인터페이스를 저장하는 파일입니다.
 
--maytinh.py is the file that stores the interface of the caculator that I created.
+감사해요!!
 
-Thanksyou!!
+PyQt5 기반의 간단한 계산기 이 계산기는 스터디그라빗(https://studyingrabbit.tistory.com/23)의 작업을 기반으로 합니다. 이 저장소는 2022년 가을 부경대학교의 오픈소스 소프트웨어 강의를 위해 존재합니다.
 
-The simple calculator based on PyQt5
-This calculator is based on studyinggrabbit's work(https://studyingrabbit.tistory.com/23)
-This repository exists for opensource software lecture in Pukyung National University at Fall 2022.
+#요건
 
-#Requirements
+PyQt5 모듈
 
-PyQt5 module
+#설치 요구사항
 
-#Installation requirements
-
-python -m pip intrall pyqt5
-
+파이썬 -m pip 인트라롤 pyqt5
